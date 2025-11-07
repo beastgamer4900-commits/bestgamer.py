@@ -16,9 +16,8 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
-“reddit stories”,“funny reddit stories”,“storytime reddit”,“try not to laugh challenge”,“comedy challenge”,“internet drama”,“reading reddit stories”,
-“viral reddit posts”,“cooking challenge funny”,“reaction video”
-]
+"reddit stories","funny reddit stories","storytime reddit","try not to laugh challenge","comedy challenge","internet drama","reading reddit stories","viral reddit posts","cooking challenge funny","reaction video"
+]  
 
 # Fetch Data Button
 if st.button("Fetch Data"):
