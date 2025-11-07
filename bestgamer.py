@@ -16,9 +16,8 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "German history explained", "Rise and fall of Germany", "What really happened in Germany", "Secrets of German history", 
-"How Germany became powerful", "Hidden history of Germany", "10 facts about German history you didn’t know", "From Empire to Republic: Germany’s transformation", "Timeline of German history in 10 minutes", 
-"Why Germany changed the world", "Rise of Hitler the untold story"
+“reddit stories”,“funny reddit stories”,“storytime reddit”,“try not to laugh challenge”,“comedy challenge”,“internet drama”,“reading reddit stories”,
+“viral reddit posts”,“cooking challenge funny”,“reaction video”
 ]
 
 # Fetch Data Button
